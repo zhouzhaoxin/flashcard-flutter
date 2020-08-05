@@ -24,7 +24,9 @@ class HomeScreen extends StatelessWidget {
         ),
         floatingActionButton: FloatingActionButton(
           child: Icon(Icons.remove_red_eye),
-          onPressed: () {},
+          onPressed: () {
+
+          },
         ),
         floatingActionButtonLocation: FloatingActionButtonLocation.centerDocked,
       ),
